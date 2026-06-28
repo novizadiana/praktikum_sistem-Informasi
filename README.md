@@ -18,7 +18,7 @@ Berawal dari visi untuk membawa industri lokal bersaing di kancah global, PT NV 
 3.	Memberikan layanan konsultasi dan implementasi teknologi yang adaptif sesuai dengan skala kebutuhan industri.
 
 # LOGO PERUSAHAAN
-![Teks Alternatif](logo.png)
+![Teks Alternatif](logo.jpg)
 
 # LOGIN
 ![Teks Alternatif](login.png)
