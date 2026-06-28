@@ -36,3 +36,4 @@ Berawal dari visi untuk membawa industri lokal bersaing di kancah global, PT NV 
 ![Teks Alternatif](tampilan_user.png)
 
 # LINK YOUTUBE
+https://youtu.be/MsXRNeyO6iQ?si=qAbrvrKV0NBKcdBa
